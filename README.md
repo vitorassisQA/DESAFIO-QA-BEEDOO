@@ -1,22 +1,12 @@
 # DESAFIO-QA-BEEDOO
-Bem-vindo ao DESAFIO-QA-BEEDOO, um projeto desenvolvido para testar as funcionalidades críticas da aplicação web de cadastro de cursos. Este repositório é projetado para simular um ambiente real que demonstre o fluxo dos testes, proporcionando uma experiência prática e realista de testes manuais. Algumas decisões foram necessárias para garantir que os cenários fossem claros, abrangentes e que refletissem as possíveis interações do usuário com a página destacada.
 
-Estrutura da User Story
-Decisão: Usar a estrutura "Como [tipo do usuário], eu quero [ação] para que [benefício]".
+Bem-vindo ao DESAFIO-QA-BEEDOO,este um projeto tem como objetivo demonstrar os testes das funcionalidades críticas da aplicação web de cadastro de cursos. Este repositório é projetado para simular um ambiente real que demonstre o fluxo dos testes, proporcionando uma experiência prática e realista de testes manuais. Algumas decisões foram necessárias para garantir que os cenários fossem claros, abrangentes e que refletissem as possíveis interações do usuário com a página destacada.
 
-Razão: A estrutura é muito utilizada no desenvolvimento ágil, pois é de fácil entendimento e tem foco nas necessidades e benefícios para o usuário final da aplicação.
 
-Definição dos Campos Necessários
-Decisão: Identificar os campos necessários para realizar o cadastro de um curso.
+# User Stories
+User Stories são descrições breves de funcionalidades, vistas da perspectiva do usuário final. Elas ajudam a definir o que o usuário quer alcançar e são essenciais para guiar o desenvolvimento e os testes. Cada User Story deve ser clara, concisa e focada em um único objetivo ou tarefa que o usuário precisa realizar.
+A seguir estão as User story da aplicação:
 
-Razão: Definir os campos básicos e necessários para a maioria dos cursos ajuda na criação de User Stories relevantes. Esse passo também garante a coleta de todos os dados essenciais no processo de cadastro.
-
-Validação de Campos
-Decisão: Incluir cenários para validação de campos, como letras ou números para alguns campos.
-
-Razão: A validação de entrada de dados é importante para manter a integridade dos dados e prevenir erros futuros. Isso garante que o sistema trate corretamente entradas inválidas.
-
-User Stories
 ## User Story 1
 - Título: Cadastrar um curso
 
