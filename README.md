@@ -18,19 +18,19 @@ Razão: A validação de entrada de dados é importante para manter a integridad
 
 User Stories
 ## User Story 1
-Título: Cadastrar um curso
+- Título: Cadastrar um curso
 
-Descrição: Como um usuário, eu quero cadastrar cursos, para que suas informações fiquem disponíveis para os alunos.
+- Descrição: Como um usuário, eu quero cadastrar cursos, para que suas informações fiquem disponíveis para os alunos.
 
 ## User Story 2
-Título: Validar caracteres no cadastro de curso
+- Título: Validar caracteres no cadastro de curso
 
-Descrição: Como um usuário, eu quero validar os tipos de caracteres aceitáveis, para garantir que os campos sejam descritos corretamente.
+- Descrição: Como um usuário, eu quero validar os tipos de caracteres aceitáveis, para garantir que os campos sejam descritos corretamente.
 
 ## User Story 3
-Título: Excluir um curso
+- Título: Excluir um curso
 
-Descrição: Como um usuário, eu quero excluir um curso, para remover da lista os cursos que não estão mais disponíveis.
+- Descrição: Como um usuário, eu quero excluir um curso, para remover da lista os cursos que não estão mais disponíveis.
 
 Link da planilha no Google Sheets
 
