@@ -12,17 +12,17 @@ A seguir estão as User story da aplicação:
 ## User Story 1
 - Título: Cadastrar um curso
 
-- Descrição: Como um usuário, eu quero cadastrar cursos, para que suas informações fiquem disponíveis para os alunos.
+- Descrição: Como um Administrador, eu quero cadastrar cursos, para que suas informações fiquem disponíveis para os alunos.
 
 ## User Story 2
 - Título: Validar caracteres no cadastro de curso
 
-- Descrição: Como um usuário, eu quero validar os tipos de caracteres aceitáveis, para garantir que os campos sejam descritos corretamente.
+- Descrição: Como um Administrador, eu quero validar os tipos de caracteres aceitáveis, para garantir que os campos sejam descritos corretamente.
 
 ## User Story 3
 - Título: Excluir um curso
 
-- Descrição: Como um usuário, eu quero excluir um curso, para remover da lista os cursos que não estão mais disponíveis.
+- Descrição: Como um Administrador, eu quero excluir um curso, para remover da lista os cursos que não estão mais disponíveis.
 
 Link da planilha no Google Sheets
 
