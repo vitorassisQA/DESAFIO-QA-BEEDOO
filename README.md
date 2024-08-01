@@ -1,6 +1,7 @@
 # DESAFIO-QA-BEEDOO
 
-Bem-vindo ao DESAFIO-QA-BEEDOO,este um projeto tem como objetivo demonstrar os testes das funcionalidades críticas da aplicação web de cadastro de cursos. Este repositório é projetado para simular um ambiente real que demonstre o fluxo dos testes, proporcionando uma experiência prática e realista de testes manuais. Algumas decisões foram necessárias para garantir que os cenários fossem claros, abrangentes e que refletissem as possíveis interações do usuário com a página destacada.
+👋 Seja bem-vindo(a)!
+Este projeto tem como objetivo demonstrar os testes das funcionalidades críticas da aplicação web de cadastro de cursos. Este repositório é projetado para simular um ambiente real que demonstre o fluxo dos testes, proporcionando uma experiência prática e realista de testes manuais. Algumas decisões foram necessárias para garantir que os cenários fossem claros, abrangentes e que refletissem as possíveis interações do usuário com a página destacada.
 
 
 # User Stories
