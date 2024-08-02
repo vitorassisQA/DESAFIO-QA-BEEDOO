@@ -27,6 +27,10 @@ A seguir estão as User story da aplicação:
 - Link da planilha no Google Sheets
 Clique [neste link](https://docs.google.com/spreadsheets/d/1mhsbA-Bs17nTJDy6eDw1k4FEzQC1_iUs_mhDF8tsAlc/edit?usp=sharing)
 
+- Link das evidências no drive:
+Clique [neste link](https://drive.google.com/drive/folders/19SKxlLHP0xsty8GIwh6oroWpFphi90zS?usp=sharing)
+
+
 
 
 
