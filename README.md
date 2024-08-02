@@ -24,7 +24,9 @@ A seguir estão as User story da aplicação:
 
 - Descrição: Como um Administrador, eu quero excluir um curso, para remover da lista os cursos que não estão mais disponíveis.
 
-Link da planilha no Google Sheets
+- Link da planilha no Google Sheets
+Clique [neste link](https://docs.google.com/spreadsheets/d/1mhsbA-Bs17nTJDy6eDw1k4FEzQC1_iUs_mhDF8tsAlc/edit?usp=sharing)
+
 
 
 
